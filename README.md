@@ -2,7 +2,7 @@
 
 # CRM Mines Paris Alumni
 
-Cet outil est outil qui est un complément Gmail qui affiche, à l'ouverture d'un e-mail, la fiche annuaire de l'expéditeur (nom, promo, ville, statut de cotisation) et propose un message de relance pré-rédigé si besoin (cotisation à jour, ou adresse e-mail différente de l'adresse principale).
+Cet outil est un complément Gmail qui affiche, à l'ouverture d'un e-mail, la fiche annuaire de l'expéditeur (nom, promo, ville, statut de cotisation) et propose un message de relance pré-rédigé si besoin (cotisation à jour, ou adresse e-mail différente de l'adresse principale).
 
 Le projet a deux parties :
 - **Backend** (Python / FastAPI / SQLModel) : expose une API qui recherche un membre par e-mail.
